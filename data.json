@@ -1,0 +1,59 @@
+[
+
+    {
+        "id": 1,
+        "title": "App Development",
+        "image":"https://images.unsplash.com/photo-1517971053567-8bde93bc6a58?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1935&q=80",
+        "description":"LOrem ipsum dolar thdinfoienfoienofn wniufnw nfiunwei nionfioeo"
+    },
+    {
+        "name": "samsung",
+        "price": "20,000",
+        "featured": "true",
+        "company": "apple"
+    },
+    {
+        "name": "samsung",
+        "price": "20,000",
+        "featured": "true",
+        "company": "apple"
+    },
+    {
+        "name": "samsung",
+        "price": "20,000",
+        "featured": "true",
+        "company": "apple"
+    },
+    {
+        "name": "samsung",
+        "price": "20,000",
+        "featured": "true",
+        "company": "apple"
+    },
+    {
+        "id": 2,
+        "title": "App Development",
+        "image":"https://images.unsplash.com/photo-1517971053567-8bde93bc6a58?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1935&q=80",
+        "description":"LOrem ipsum dolar thdinfoienfoienofn wniufnw nfiunwei nionfioeo"
+    },
+    {
+        "id": 3,
+        "title": "App Development",
+        "image":"https://images.unsplash.com/photo-1517971053567-8bde93bc6a58?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1935&q=80",
+        "description":"LOrem ipsum dolar thdinfoienfoienofn wniufnw nfiunwei nionfioeo"
+    },
+    {
+        "id": 4,
+        "title": "App Development",
+        "image":"https://images.unsplash.com/photo-1517971053567-8bde93bc6a58?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1935&q=80",
+        "description":"LOrem ipsum dolar thdinfoienfoienofn wniufnw nfiunwei nionfioeo"
+    },
+    {
+        "id": 5,
+        "title": "App Development",
+        "image":"https://images.unsplash.com/photo-1517971053567-8bde93bc6a58?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1935&q=80",
+        "description":"LOrem ipsum dolar thdinfoienfoienofn wniufnw nfiunwei nionfioeo"
+    }
+
+    
+]
